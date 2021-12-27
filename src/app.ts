@@ -1,4 +1,4 @@
-// http://www.typescriptlang.org/docs/handbook/compiler-options.html#compiler-options
++// http://www.typescriptlang.org/docs/handbook/compiler-options.html#compiler-options
 
 class Person {
   constructor(private name: string) {}
